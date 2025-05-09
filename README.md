@@ -1,3 +1,7 @@
+HOSTING LINK
+https://voice-activated-prescription.netlify.app/
+
+
 Getting Started with Create React App
 This project was bootstrapped with Create React App.
 
